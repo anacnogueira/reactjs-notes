@@ -41,7 +41,7 @@ export function NoteCard({ note }: NoteCardProps) {
             type="button"
             className="w-full bg-slate-800 py-4 text-center text-small text-slate-300 outline-none font-medium group"
           >
-            Deseja{" "}
+            Deseja
             <span className="text-red-400 group-hover:underline">
               apagar essa nota?
             </span>
